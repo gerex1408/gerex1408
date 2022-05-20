@@ -31,5 +31,5 @@ My main goal in life is to finish my degree with honors, study a master related 
 ### 📫 Contact
   - [Email](mailto:geriloza@gmail.com) (_`geriloza@gmail.com`_)
   - [Twitter](https://twitter.com/GerardLozano9/)
-  - [Website]()(_`In progress ...`_)
+  - Website (_`In progress ...`_)
   - [LinkedIn](https://linkedin.com/in/gerardlozanotrias/)
