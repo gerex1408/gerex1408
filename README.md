@@ -6,15 +6,16 @@ I am a third year student of Computer Engineering at the University of Girona. D
 My main goal in life is to finish my degree with honors, study a master related to Computer Science in the USA and finally my dream would be to work as a Software Engineer in Silicon Valley.
 
 <img src="https://github-readme-stats.vercel.app/api?username=gerex1408&show_icons=true&theme=prussian" alt="Stats" align="right">
-<img  src="./me-modified.png" alt="Me" align="right">
+<img  src="./me-modified.png" alt="left" >
+
+<br/>
 
 ### 📖 Currently learning
   - [React Native](https://reactnative.dev/)
   - [Tauri](https://tauri.studio/)
   - [Android](https://developer.android.com/docs)
 
-<br/>
-<br/>
+
 
 ### 🍕 Stack
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=88dded)
