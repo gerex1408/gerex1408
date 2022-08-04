@@ -11,10 +11,9 @@ My main goal in life is to finish my degree with honors, study a master related 
 <br/>
 
 ### 📖 Currently learning
+  - [Nextjs](https://nextjs.org/)
   - [React Native](https://reactnative.dev/)
   - [Tauri](https://tauri.studio/)
-  - [Android](https://developer.android.com/docs)
-
 
 
 ### 🍕 Stack
