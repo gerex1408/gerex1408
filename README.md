@@ -6,9 +6,11 @@ I am a third year student of Computer Engineering at the University of Girona. D
 My main goal in life is to finish my degree with honors, study a master related to Computer Science in the USA and finally my dream would be to work as a Software Engineer in Silicon Valley.
 
 <img src="https://github-readme-stats.vercel.app/api?username=gerex1408&show_icons=true&theme=prussian" alt="Stats" align="right">
-<img  src="./me-modified.png" alt="left" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerex1408&layout=compact&theme=dark" alt="Most used languages">
 
 <br/>
+
+
 
 ### 📖 Currently learning
   - [Nextjs](https://nextjs.org/)
