@@ -23,7 +23,6 @@ My main goal in life is to finish my degree with honors, study a master related 
 ![Express](https://img.shields.io/badge/Express.js-fff?style=for-the-badge&logo=express&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-3c99dc?style=for-the-badge&logo=css3&logoColor=white)
-![Android](https://img.shields.io/badge/Android-32de84?style=for-the-badge&logo=android&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
 
