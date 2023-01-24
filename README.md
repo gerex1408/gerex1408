@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gerex1408&label=Profile%20views&color=0e75b6&style=flat" alt="machine-maker" /> </p>
 
-I am a third year student of Computer Engineering at the University of Girona. During these years I've been able to work for a Research Group and for Amazon where I developed myself as the ambitious, motivated and hard-working person that I am today. I encourage myself to thrive in everything that I do, this includes my studies, my job and also my hobbies. I don't settle easily, I always want to be the best at what I do. I've worked in group in almost every project of these last years and I usually take the leadership role due to my ease in talking with others and managing tasks.
+I am a forth year student of Computer Engineering at the University of Girona. During these years I've been able to work for a Research Group, for Amazon, for Additio and now for Fundcraft where I developed myself as the ambitious, motivated and hard-working person that I am today. I encourage myself to thrive in everything that I do, this includes my studies, my job and also my hobbies. I don't settle easily, I always want to be the best at what I do. I've worked in group in almost every project of these last years and I usually take the leadership role due to my ease in talking with others and managing tasks.
 My main goal in life is to finish my degree with honors, study a master related to Computer Science in the USA and finally my dream would be to work as a Software Engineer in Silicon Valley.
 
 <br/>
@@ -10,7 +10,7 @@ My main goal in life is to finish my degree with honors, study a master related 
 
 
 ### 📖 Currently learning
-  - [Nextjs](https://nextjs.org/)
+  - [Django](https://www.djangoproject.com/)
   - [React Native](https://reactnative.dev/)
   - [Tauri](https://tauri.studio/)
 
