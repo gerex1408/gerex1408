@@ -1,10 +1,13 @@
 ![Header](./Creative%20Director%20Header%20Banner.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gerex1408&label=Profile%20views&color=0e75b6&style=flat" alt="machine-maker" /> </p>
+As a Computer Engineer, my journey has been shaped through a variety of roles that have allowed me to develop both technical and leadership skills in demanding environments. My experiences range from being a research technician at the University of Girona, to working as a full-stack developer at Additio, and as a Frontend developer at Fundcraft. In each of these roles, I've shown myself to be ambitious, motivated, and hardworking, tackling challenges with enthusiasm and determination to deliver high-quality solutions.
 
-I am a forth year student of Computer Engineering at the University of Girona. During these years I've been able to work for a Research Group, for Amazon, for Additio and now for Fundcraft where I developed myself as the ambitious, motivated and hard-working person that I am today. I encourage myself to thrive in everything that I do, this includes my studies, my job and also my hobbies. I don't settle easily, I always want to be the best at what I do. I've worked in group in almost every project of these last years and I usually take the leadership role due to my ease in talking with others and managing tasks.
-My main goal in life is to finish my degree with honors, study a master related to Computer Science in the USA and finally my dream would be to work as a Software Engineer in Silicon Valley.
+Throughout my career, I have had the opportunity to lead projects, strengthening my ability to work in a team and coordinate tasks. I am at ease when communicating with others and adept at task management.
 
+My primary professional goal is to continue to grow and challenge myself in the field of computer engineering, always seeking to learn and improve. I plan to expand my knowledge through a graduate program related to computer science in the United States, and subsequently apply these learnings and experiences in developing innovative and high-impact software solutions.
+
+My passion and dedication extend beyond my career. I do not settle easily and always strive to be the best at what I do, be it in my job or in my hobbies. My perspective is that each experience is an opportunity to learn and grow, and I embrace every challenge with enthusiasm and determination.
 <br/>
 
 
