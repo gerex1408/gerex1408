@@ -1,4 +1,4 @@
-![Header](./Creative%20Director%20Header%20Banner.png)
+![Header](./1671962136306.jpeg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gerex1408&label=Profile%20views&color=0e75b6&style=flat" alt="machine-maker" /> </p>
 As a Computer Engineer, my journey has been shaped through a variety of roles that have allowed me to develop both technical and leadership skills in demanding environments. My experiences range from being a research technician at the University of Girona, to working as a full-stack developer at Additio, and as a Frontend developer at Fundcraft. In each of these roles, I've shown myself to be ambitious, motivated, and hardworking, tackling challenges with enthusiasm and determination to deliver high-quality solutions.
