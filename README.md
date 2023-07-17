@@ -13,20 +13,22 @@ My passion and dedication extend beyond my career. I do not settle easily and al
 
 
 ### 📖 Currently learning
-  - [Django](https://www.djangoproject.com/)
+  - [GraphQL](https://graphql.org/)
   - [React Native](https://reactnative.dev/)
-  - [Tauri](https://tauri.studio/)
+  - [Vue](https://vuejs.org/)
+  - [TypeScript](https://www.typescriptlang.org/)
+  - [Superset](https://superset.apache.org/)
 
 
 ### 🍕 Stack
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=88dded)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge&logo=javascript&logoColor=black)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-fff?style=for-the-badge&logo=express&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-3c99dc?style=for-the-badge&logo=css3&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Django](https://img.shields.io/badge/DJANGO-314342?style=for-the-badge&logo=django&logoColor=red)
+![NextJS](https://img.shields.io/badge/NEXTJS-3c99dc?style=for-the-badge&logo=vercel&logoColor=white)
 
 
 ### 📫 Contact
