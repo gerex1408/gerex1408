@@ -17,7 +17,6 @@ My passion and dedication extend beyond my career. I do not settle easily and al
   - [React Native](https://reactnative.dev/)
   - [Vue](https://vuejs.org/)
   - [TypeScript](https://www.typescriptlang.org/)
-  - [Superset](https://superset.apache.org/)
 
 
 ### 🍕 Stack
