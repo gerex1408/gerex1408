@@ -5,5 +5,4 @@
 ### 📫 Contact
   - [Email](mailto:geriloza@gmail.com) (_`geriloza@gmail.com`_)
   - [Twitter](https://twitter.com/GerardLozano9/)
-  - [Website](https://gerardlozanotrias.com/)
   - [LinkedIn](https://linkedin.com/in/gerardlozanotrias/)
